@@ -1,0 +1,44 @@
+1.Heading Tag <h1>-<h6>
+2.Paragraph Tag <p>
+3. Comment Tag  <!--, contains any number of lines of text, and ends with -->.
+4.<main></main>
+5.<img> Tag
+6.src attribute of <img> tag
+7.alt attribute The alt attribute's text is used for screen readers to improve accessibility and is displayed if the image fails to load.
+8.Anchor Tag <a>
+9.href attribute of anchor tag 
+10.target="_blank" attribute in anchor tag 
+target attribute with the value _blank to the anchor (a) element's opening tag, so that the link opens in a new tab
+11.<section></section>
+12.<ul> Tag unordered list
+13.<li></li> list item tag
+14.<figure></figure>
+15.<figcaption></figcaption> Tag
+16.<em> tag is used to emphasis element.
+17.<strong></strong>
+18.<ol>-Ordered List
+19.<form></form> and action attribute of <form>
+20.<input> it is used to collect input.
+21.type attribute of <input>
+22.name attribute of <input>
+23.Placeholder text is used to give people a hint about what kind of information to enter into an input. For example, <input type="text" placeholder="Email address">.
+24.require attribute of <input> tag
+25.<button></button>
+26.type attribute of <button>
+27.id attribute of <input>
+28. name attribute of <input>
+29.<input type="radio"> You can use radio buttons for questions where you want only one answer out of multiple options.
+30.type attribute of <button>
+31.<label></label>
+32.The id attribute is used to identify specific HTML elements. Each id attribute's value must be unique from all other id values for the entire page.
+33. name attribute in <input> tag-Notice that both radio buttons can be selected at the same time. To make it so selecting one radio button automatically deselects the other, both buttons must have a name attribute with the same value.
+34.<fieldset></fieldset>-The fieldset element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line.
+35.<legend></legend>-The legend element acts as a caption for the content in the fieldset element.
+36.<input type="checkbox"> 
+37.name,value attribute of <input> tag
+38.checked attribute of <input> tag
+39.<footer></footer>
+40.The title element determines what browsers show in the title bar or tab for the page.
+41.Add the lang attribute with the value en to the opening html tag to specify that the language of the page is English
+42.All pages should begin with <!DOCTYPE html>. This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications.
+43.<meta attribute="value"> Tell the browser to parse the markup into multiple languages by creating a meta element as a child of the head element. Set its charset attribute to UTF-8.
